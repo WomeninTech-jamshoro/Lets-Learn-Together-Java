@@ -11,6 +11,52 @@
 ### If you want to contribute to this project, consider reading the [CONTRIBUTING.md](CONTRIBUTING.md) first to get a better idea of how to contribute to this repo.
 
 <br>
+## Steps to add your contribution
+
+**1. Fork**
+
+- Forking will create a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository.
+
+- Go to [https://github.com/WomeninTech-jamshoro/Lets-Learn-together](https://github.com/WomeninTech-jamshoro/Lets-Learn-together)
+
+- See on top right corner fork the repository from there.
+
+![Fork](/assets/fork.png "Fork")
+
+**2. Clone**
+
+- Clone is a copy of repository on your local instead of on a website's server where you edit file in your preffered editor.
+
+![Clone](/assets/clone.png "Clone")
+
+command for git clone : `$ git clone [URL]`
+*[URL]-url that was copied in clipboard*
+
+**3. Create your Branch** 
+ 
+`$ git checkout -b <branch-name>`
+
+**4. Make some contribution**
+
+You can add or edit any file.
+
+**5. Add Changes and Commit Changes**
+
+- `$ git add <file-name>` or `$ git add . `
+
+- `git commit -m "Add my-commit" `
+
+**6. Push changes to GitHub**
+
+`git push origin <branch-name>`
+ 
+## Submit your changes for review
+
+Once you push your code to GitHub, now it's time to create your `pull request`, you will go to the repository click on `compare and pull request` and submit the pull request.
+
+
+
+
 
 
 
