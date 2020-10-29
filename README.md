@@ -19,7 +19,7 @@
 
 - Forking will create a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository.
 
-- Go to [https://github.com/WomeninTech-jamshoro/Lets-Learn-together](https://github.com/WomeninTech-jamshoro/Lets-Learn-together)
+- Go to [https://github.com/WomeninTech-jamshoro/Let-s-Learn-Together-Java.git](https://github.com/WomeninTech-jamshoro/Let-s-Learn-Together-Java.git)
 
 - See on top right corner fork the repository from there.
 
